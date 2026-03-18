@@ -5,3 +5,4 @@ print("Hill!")
 print("Zaleprnios")
 print("DOg")
 print("Gde moi litvin")
+pass
