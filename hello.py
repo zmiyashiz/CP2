@@ -1,3 +1,3 @@
 print("Hello World!")
-print("Hello Timur!")
-print("Hello Yarik!")
+print("Hello  12312312 Timur!")
+print("Ioan Prank!")
