@@ -1,7 +1,6 @@
 print("Hello World!")
 print("Hello  12312312 Timur!")
 print("Ioan Prank!")
-print("Hi Chitler!")
+print("Hill!")
 print("Zaleprnios")
 print("DOg")
-print("Litvin Litvin Litvin Litvin!")
